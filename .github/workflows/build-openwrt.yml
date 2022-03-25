@@ -21,7 +21,7 @@ on:
     - cron: 0 0 * * *
 
 env:
-  REPO_URL: https://github.com/orangepi-xunlong/openwrt
+  REPO_URL: https://github.com/baiywt/openwrt
   REPO_BRANCH: openwrt-21.02
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: OrangePi_R1_Plus_LTS_defconfig
